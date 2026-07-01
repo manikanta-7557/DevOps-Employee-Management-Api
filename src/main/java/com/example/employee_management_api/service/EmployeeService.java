@@ -13,8 +13,8 @@ public class EmployeeService {
 
     // Temporary in-memory list to simulate a database table
     private final List<Employee> employeeList = new ArrayList<>(List.of(
-    new Employee(1, "Alice", "Engineering", 75000),
-    new Employee(2, "Bob", "HR", 55000)
+    new Employee(1, "Manikanta", "Engineering", 175000),
+    new Employee(2, "Jai Sri Ram", "HR", 155000)
 ));
 
 
